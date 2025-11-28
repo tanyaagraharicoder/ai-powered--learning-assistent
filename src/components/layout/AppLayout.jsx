@@ -1,11 +1,12 @@
 import React from 'react'
 
-const FlashcardListPage = () => {
+const AppLayout = () => {
   return (
     <div>
+        AppLayout
       
     </div>
   )
 }
 
-export default FlashcardListPage
+export default AppLayout
